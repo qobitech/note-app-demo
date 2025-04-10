@@ -18,8 +18,8 @@ An offline-capable React notes app that allows users to create, edit, and sync n
 
 ```bash
 # Clone the repository
-git clone https://github.com/qobitech/note-app.git
-cd notes-app
+git clone https://github.com/qobitech/note-app-demo.git
+cd notes-app-demo
 
 # Install dependencies
 npm install
