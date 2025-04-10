@@ -147,7 +147,7 @@ const NotesApp = () => {
       </StatusClass>
       <NoteClass onSubmit={(e) => e.preventDefault()}>
         <HeaderClass>
-          <h1>Note App</h1>
+          <h1>Note App Demo</h1>
           <button
             onClick={() => {
               handleNewNote()
